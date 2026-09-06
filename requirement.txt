@@ -1,5 +1,5 @@
 #Requirements
-Flask
+flask
 gunicorn
 numpy
 pandas
