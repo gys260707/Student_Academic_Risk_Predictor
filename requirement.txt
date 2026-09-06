@@ -1,0 +1,6 @@
+#Requirements
+Flask
+gunicorn
+numpy
+pandas
+joblib
