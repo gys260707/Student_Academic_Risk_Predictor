@@ -4,7 +4,4 @@ gunicorn
 numpy
 pandas
 joblib
-sklearn
-mysql
-os
-dotenv
+sickit-learn
