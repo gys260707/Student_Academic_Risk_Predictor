@@ -4,3 +4,7 @@ gunicorn
 numpy
 pandas
 joblib
+sklearn
+mysql
+os
+dotenv
